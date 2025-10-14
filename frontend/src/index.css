@@ -34,3 +34,11 @@ a {
 .navbar button:hover {
   background-color: #fff4f2;
 }
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
